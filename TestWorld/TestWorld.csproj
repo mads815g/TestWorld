@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MandatoryWorld">
+      <HintPath>..\..\..\..\OneDrive\Dokumenter\Skole\Datamatiker 4 sem\ADV C#\MandatoryWorld\MandatoryWorld\bin\Debug\net5.0\MandatoryWorld.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
