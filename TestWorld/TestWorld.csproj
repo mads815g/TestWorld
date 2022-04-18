@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <Reference Include="MandatoryWorld">
-      <HintPath>..\..\..\..\OneDrive\Dokumenter\Skole\Datamatiker 4 sem\ADV C#\MandatoryWorld\MandatoryWorld\bin\Debug\net5.0\MandatoryWorld.dll</HintPath>
+      <HintPath>..\..\MandatoryWorld\MandatoryWorld\bin\Debug\net5.0\MandatoryWorld.dll</HintPath>
     </Reference>
   </ItemGroup>
 
